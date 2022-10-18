@@ -1,4 +1,3 @@
- 👋
 <h1 align="center">Oi 👋, Eu sou Alexander</h1>
 <h3 align="center">Apaixonado por Análise e Ciência de dados no mundo digital</h3>
 
